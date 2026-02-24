@@ -76,12 +76,9 @@ export default function Login() {
           
           <div className="mt-16 grid grid-cols-2 gap-8">
             <div className="text-center">
-              <p className="text-3xl font-display font-bold">50+</p>
-              <p className="text-sm text-primary-foreground/70">Panchayats</p>
+              <p className="text-3xl font-display font-bold">Anjarakandy</p>
+              <p className="text-sm text-primary-foreground/70">Panchayat</p>
             </div>
-            <div className="text-center">
-              <p className="text-3xl font-display font-bold">10K+</p>
-              <p className="text-sm text-primary-foreground/70">Trees Planted</p>
             </div>
           </div>
         </div>
